@@ -26,6 +26,6 @@ public class Ejercicio15 {
 		Evaluacion.notas();
 		num++;
 		}System.out.println("Hay " +Evaluacion.mayor + " notas por encima o igual a 7");
-		System.out.println("Hay " +Evaluacion.menor + "notas por debajo de 7");
+		System.out.println("Hay " +Evaluacion.menor + " notas por debajo de 7");
 }
 }
