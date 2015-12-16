@@ -3,7 +3,7 @@ package doWhile1;
 import java.util.Scanner;
 
 public class Ejercicio23 {
-	static Scanner scan = new Scanner(System.in);
+	static Scanner scan = new Scanner (System.in);
 
 	public static void main(String[] args) {
 		
