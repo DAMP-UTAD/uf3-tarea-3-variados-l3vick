@@ -20,9 +20,9 @@ public static void main(String[] args) {
 		int y = scan.nextInt();
 		if (x > 0 && y > 0){
 			cuadr1++;
-		} else if (x > 0 && y < 0){
-			cuadr2++;
 		} else if (x < 0 && y > 0){
+			cuadr2++;
+		} else if (x < 0 && y < 0){
 			cuadr3++;			
 		} else {
 			cuadr4++;

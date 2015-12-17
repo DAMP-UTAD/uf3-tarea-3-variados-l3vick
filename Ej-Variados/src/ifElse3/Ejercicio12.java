@@ -14,9 +14,9 @@ public class Ejercicio12 {
 
 		if ( (numx > 0) && (numy > 0)){
 			System.out.println("1º Cuadrante");
-		} else if ((numx > 0) && (numy <0)) {
+		} else if ((numx < 0) && (numy >0)) {
 			System.out.println("2º Cuadrante");
-		} else if ((numx < 0) && (numy > 0)) {
+		} else if ((numx < 0) && (numy < 0)) {
 			System.out.println("3º Cuadrante");
 		} else {
 			System.out.println("4º Cuadrante");
